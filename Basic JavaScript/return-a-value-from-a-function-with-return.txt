@@ -1,0 +1,4 @@
+function timesFive(para1)
+{
+  return para1*5;
+}
